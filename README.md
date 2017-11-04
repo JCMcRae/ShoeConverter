@@ -17,4 +17,4 @@ Depending on your IDE of choice, if you so choose to use one, it will do it for 
 Then, you can simply run the .jar file, but if you have a wrapper program that turns the .jar to an .exe, that's okay, too.
 
 ## EOL WARNING
-This version has reached end of life, and is deprecated. The updated version of this is ShoeConverter-Alpha.
+This version has reached end of life, and is deprecated. The updated version of this is [ShoeConverter-Alpha](https://github.com/JCMcRae/ShoeConverter-Alpha "ShoeConverter-Alpha").
